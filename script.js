@@ -24,5 +24,5 @@ if (denominador == 0) {
 else {
     let quociente = numerador / denominador;
 
-    alert(numerador + " " + "dividido por " + denominador + " é " + quociente);
+    alert(numerador + " " + "dividido por " + denominador + " é: " + quociente);
 }
